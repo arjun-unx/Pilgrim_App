@@ -1,0 +1,33 @@
+class PopularsModel {
+  String? color;
+  String? image;
+
+  PopularsModel(this.color, this.image);
+}
+
+List<PopularsModel> populars = popularsData
+    .map((item) => PopularsModel(item['color'], item['image']))
+    .toList();
+
+var popularsData = [
+  {
+    "color": "Temples and History",
+    "image":
+    "https://clipground.com/images/clipart-hindu-temple-20.jpg"
+  },
+  {
+    "color": "Chruch and History",
+    "image":
+    "https://thumbs.dreamstime.com/b/church-facade-building-icon-vector-illustration-design-church-facade-building-icon-144256502.jpg"
+  },
+  {
+    "color": "Mosque and History",
+    "image":
+    "https://t3.ftcdn.net/jpg/01/36/33/84/500_F_136338441_kGysQ7aUIKokbL8Wp5vKLRDQGZllxr4Y.jpg"
+  },
+  {
+    "color": "Pagoda and History",
+    "image":
+    "https://www.nicepng.com/png/detail/841-8416661_palace-png.png"
+  },
+];
