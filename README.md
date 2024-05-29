@@ -1,16 +1,5 @@
-# pilgrimage_app
+# Pilgrim - Travel and Tourism Flutter App
 
-A new Flutter project.
+A pilgrimage tourism app using flutter & firebase integrated with cross platform apps for travel plan and services. Designed UI that engaged multiple senses and devised documentation and detailing for each screens of app. Worked with a team of 5 members and provided end-to-end solutions for clients. Participate in fast-paced development cycles
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Final Review.pptx](https://github.com/arjun-unx/Pilgrim_App/files/15487565/Final.Review.pptx)
